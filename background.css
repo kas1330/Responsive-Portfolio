@@ -3,3 +3,12 @@ body{
     background-image:url("grunge_wall.png");
     white-space:normal;
 }
+
+.container{
+    background-color: lightgray;
+
+}
+
+.form-group{
+    background-color: lightgray;
+}

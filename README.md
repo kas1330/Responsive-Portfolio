@@ -7,4 +7,5 @@
 6. Added placeholder images on the portfolio page. I was not sure what these images were supposed to be, so I made them links to 2 different repositories on my github. I would have linked more, and I can in the future, but at the moment those are the only two real projects (not examples) on my github. 
 7. Cannot get portfolio page pictures to display 2 across on smaller screens, I though "col-xs-6" should do this - I believe I fixed this 9/13/2020
 8. Updated my bio to be accurate info+lorem ipsum.
-9. I added a background image on the css page, but I can't figure out how to get white space around the text
+9. I added a background image on the css page, but I can't figure out how to get white space around the text - Fixed 9/15/2020
+10. 
