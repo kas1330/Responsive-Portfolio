@@ -9,3 +9,7 @@
 8. Updated my bio to be accurate info+lorem ipsum.
 9. I added a background image on the css page, but I can't figure out how to get white space around the text - Fixed 9/15/2020
 10. Centered the text boxes on the form page.
+11. Fixed formatting of the github and linkedin logos after talking to TA Tom.
+12. Fixed margin on contact page container.
+13. Switched all the divs to <section> for semantics
+14. Fixed margins inside the container on contact page.
