@@ -8,4 +8,4 @@
 7. Cannot get portfolio page pictures to display 2 across on smaller screens, I though "col-xs-6" should do this - I believe I fixed this 9/13/2020
 8. Updated my bio to be accurate info+lorem ipsum.
 9. I added a background image on the css page, but I can't figure out how to get white space around the text - Fixed 9/15/2020
-10. 
+10. Centered the text boxes on the form page.
