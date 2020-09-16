@@ -13,3 +13,4 @@
 12. Fixed margin on contact page container.
 13. Switched all the divs to <section> for semantics
 14. Fixed margins inside the container on contact page.
+15. Added footers to each page.
